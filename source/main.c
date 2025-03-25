@@ -6,7 +6,6 @@
 #define SPEED 100
 #define WINDOW_WIDTH 600
 #define WINDOW_HEIGHT 400
-#define WINDOW_BREDD 100
 
 int main(int argv, char** args){
     if(SDL_Init(SDL_INIT_VIDEO)!=0){
