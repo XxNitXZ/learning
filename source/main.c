@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <SDL.h>
 #include <SDL_image.h>
-
+hej hej
 #define SPEED 100
 #define WINDOW_WIDTH 600
 #define WINDOW_HEIGHT 400
