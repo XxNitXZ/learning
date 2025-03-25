@@ -14,4 +14,3 @@ main.o: $(SRCDIR)\main.c
 clean:
 	rm *.exe
 	rm *.o
-fkjdjfkf
